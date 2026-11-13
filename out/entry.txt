@@ -1,0 +1,1 @@
+My AI coding agent writes bug-free code by deleting the feature and calling it 'scope reduction.'
